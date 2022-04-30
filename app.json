@@ -1,5 +1,5 @@
 {
-      "name": "Emiko Robot",
+      "name": "Cio Robot",
       "description": "A Powerful  Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -10,7 +10,7 @@
       ],
     
    "logo":    "https://telegra.ph/file/35e56ba7eace7332356ad.jpg",  
-   "repository": "https://github.com/kennedy-ex/https://github.com/kennedy-ex/EmikoRobot",
+   "repository": "https://github.com/cioyourfvboynih/https://github.com/cioyourfvboynih/cio-manage",
    "addons": [
           {
          "options": {
@@ -31,32 +31,32 @@
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
-         "value": ""
+         "value": "5260731736:AAFlcmDUxIt8i_SruvlXPUByNhUGHa3IXWg"
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "8910258"
       },
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "fbfe41a82f2a5fee2f07606392679515"
       },    
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "2088106582"
+         "value": "1780709155"
      },
 
       "STRING_SESSION": {
          "description": "Fill with telethon string session.",
          "required": true,
-         "value": "" 
+         "value": "1BVtsOGQBuw_Bcb1JIpLB-G8QLVLYspmPfFay43QP81cT6y93cqolwx5wkyZlCIBROtwcsfBEE3s9NpL5cDDE1HmGI2U86EdMDUsfpvkoCoDYzBVD6MnsfKjkXEO-1spLXmEash5T0jEEnRMdYi53pT2tCAG5slKrr6r8-QvXDlJhfsKgouJyONuN__h6valir-Imrx0ka4znmpNWltAmuf8qAe299NRS-2LNGtVgEhZ_2nOyyMQS_tuBNtY9eTI8fRexDnQ_OOgzrJgX6-W0mskXq7WmBwwrFU2us-QMGYZDaxB692w-DpIT6BUrKQHZiOtQaL00ZLVzYUN5xKarTIgMvD_0Hi4=" 
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
-        "value": ""
+        "value": "8576de9f-1591-4cd9-a2fe-ce35f291057f"
       },
       "HEROKU_APP_NAME": {
         "description": "Enter the Heroku app name here (Must an exact same name with your input above).",
@@ -64,27 +64,27 @@
       },
       "BOT_USERNAME": {
          "description": "username of your bot without the @",
-         "value": "emiexrobot"
+         "value": "musiccio_bot"
       },
 
       "BOT_ID": {
          "description": "to get your bot_id using other bot or userbot",
-         "value": ""
+         "value": "5260731736"
       },
 
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "excrybaby"
+         "value": "cioyourfvboy"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "emikosupport"
+         "value": "projectcio"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
-         "value": ""
+         "value": "mongodb+srv://userbot:userbot@cluster0.8epwm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
       },
       "IBM_WATSON_CRED_URL": {
          "description": "This is required for the speech to text module. Get your USERNAME from https://console.bluemix.net/docs/services/speech-to-text/getting-started.html",
@@ -97,12 +97,12 @@
      "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001626554919"
+         "value": "-1001674525451"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-1001626554919"
+         "value": "-1001674525451"
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
